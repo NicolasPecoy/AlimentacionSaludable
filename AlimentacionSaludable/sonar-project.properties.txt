@@ -1,0 +1,6 @@
+sonar.projectKey = 956a7a6b99426c63ae95fecf31299d8960e9e352
+sonar.projectName = obligatorio
+sonar.projectVersion = 1.0
+sonar.sources = \srs
+sonar.java.binaries = \dist
+sonar.java.source = 11.0.8
